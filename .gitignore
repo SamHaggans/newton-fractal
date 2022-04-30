@@ -1,0 +1,6 @@
+# Output files
+bin
+obj
+
+# VSCode configuration
+.vscode
